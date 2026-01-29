@@ -5,3 +5,10 @@ header {
 .ulHeader {
     display: flex;
 }
+
+
+header ul li a {
+    color: red;
+    font-size: 20px;
+    padding-left: 5rem;
+}
