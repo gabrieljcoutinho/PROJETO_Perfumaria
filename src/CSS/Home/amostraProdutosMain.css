@@ -1,0 +1,15 @@
+.mainAmostraProdutos {
+    padding-top: 5rem;
+    height: 900px;
+}
+
+.tituloProdutos {
+    color: orange;
+    padding-bottom: 3rem;
+    font-size: 40px;
+}
+
+.imgProdutos {
+    width: 2000px;
+    cursor: pointer;
+}
