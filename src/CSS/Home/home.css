@@ -1,0 +1,5 @@
+.section {
+    background-color: #000;
+    transform: translateY(100px);
+    height: 300px;
+}
