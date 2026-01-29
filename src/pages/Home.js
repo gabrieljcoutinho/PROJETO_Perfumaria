@@ -69,7 +69,7 @@ const Home = () => {
 
 
         <main className="boasVindasAoSite">
-            <p className='teste'>TESTANDO TEXTo</p>
+            <h2 className='subtituliMainBoasVindas'>Welcome to Local Face</h2>
         </main>
 
 <br /><br /><br /><br />
