@@ -16,3 +16,27 @@
     width: 900px;
     font-family: 'Montserrat', sans-serif;
 }
+
+.nossoVValoresParagrafo {
+    /* 1. Alinhamento e Leitura */
+    text-align: justify;
+    line-height: 1.8;
+    /* Aumentei para 1.8 para dar mais elegância */
+    max-width: 650px;
+    margin: 0 auto 2rem auto;
+    /* Centraliza o bloco na página e dá espaço embaixo */
+
+    /* 2. Tipografia */
+    font-family: 'Georgia', serif;
+    /* Fontes com serifa passam mais sofisticação */
+    color: #fff;
+    /* Um cinza muito escuro é mais suave que o preto puro */
+    font-size: 1.1rem;
+
+    /* 3. Detalhe Elegante: Recuo na primeira linha */
+    text-indent: 30px;
+}
+
+.nossoVValoresParagrafo::first-letter {
+    font-size: 35px;
+}
