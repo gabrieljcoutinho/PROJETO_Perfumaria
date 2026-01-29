@@ -37,6 +37,6 @@
     text-indent: 30px;
 }
 
-.nossoVValoresParagrafo::first-letter {
+.nossoValoresParagrafo::first-letter {
     font-size: 35px;
 }
