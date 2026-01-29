@@ -15,11 +15,11 @@ const AppRoutes = () => { // Mudamos o nome aqui
       <Header />
       <Routes> {/* Este Routes é o da biblioteca */}
         <Route path="/" element={<Home />} />
-        <Route path="/loja" element={<Loja />} />
+        {/* <Route path="/loja" element={<Loja />} />
         <Route path="/sobrenos" element={<Sobrenos />} />
         <Route path="/servicos" element={<Servicos />} />
         <Route path="/blog" element={<Blog />} />
-        <Route path="*" element={<Navigate to="/" replace />} />
+        <Route path="*" element={<Navigate to="/" replace />} /> */}
       </Routes>
     </BrowserRouter>
   )
