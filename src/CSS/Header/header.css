@@ -1,22 +1,34 @@
 header {
     padding-top: 1.5rem;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    overflow-x: hidden;
+    /* Garantia extra para a barra sumir */
+    box-sizing: border-box;
+    padding-right: 2rem;
+}
+
+.ulHeader {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    width: 100%;
+    padding: 0;
+}
+
+/* O TRUQUE: Esse margin-left joga os textos e ícones pra direita
+   sem criar barra, pois ele ocupa o espaço interno vazio */
+.ulHeader li:first-of-type {
+    margin-left: auto;
 }
 
 header ul li a {
     color: red;
     font-size: 20px;
-    padding-left: 5rem;
-}
-
-.imgHeader {
-    transform: translate(-1000px, 20px);
-}
-
-.ulHeader {
-    display: flex;
-    padding-left: 15rem;
-    gap: 20px;
-    transform: translate(600px, -20px);
+    padding-left: 2rem;
+    text-decoration: none;
 }
 
 .ul-lista {
@@ -28,7 +40,13 @@ header ul li a {
     text-decoration: underline;
 }
 
+.imgHeader{
+    padding-left: 5rem;
+}
+
 .imgListaIcones {
-    /* Move -10px no eixo Y (para cima) e 10px no eixo X (para a direita) */
-    transform: translate(900px, -50px);
+    margin-left: 20px;
+    /* Em vez de translate(900px) */
+    height: auto;
+    padding-right: 10rem;
 }
