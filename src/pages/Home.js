@@ -83,9 +83,24 @@ const Home = () => {
         </main>
 
           <main className="nossosValores">
-            <img src={imgNossosValores} alt="" />
+            <img src={imgNossosValores} className='imgNossosValores' alt="" />
               <div className="conteudoNossosValores">
           <h2>Our Values</h2>
+
+          <p className="nossoValoresParagrafo">
+             At Local Face, our perfume retail store is built on a foundation<br/>
+             of passion and authenticity. We believe in celebrating the<br/>
+              individuality of every customer, providing a diverse collection of<br/>
+              scents that resonate with their unique personality and style. Our<br/>
+              dedicated team of fragrance enthusiasts is committed to creating a<br/>
+               welcoming and inclusive environment, where connections are forged, and inspiration thrives.
+
+               <br/><br/>
+
+            Embracing sustainability and continuous learning, Local Face<br/>
+             strives to be more than just a shopping destination; we are a <br/>
+             community that inspires and empowers individuals on their fragrance journey.
+          </p>
               </div>
 
           </main>
