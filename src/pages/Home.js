@@ -82,9 +82,13 @@ const Home = () => {
 
         </main>
 
-      <main className="nossosValores">
-        <img src={imgNossosValores} alt="" />
-      </main>
+          <main className="nossosValores">
+            <img src={imgNossosValores} alt="" />
+              <div className="conteudoNossosValores">
+          <h2>Our Values</h2>
+              </div>
+
+          </main>
 
 
 <br /><br /><br /><br />
