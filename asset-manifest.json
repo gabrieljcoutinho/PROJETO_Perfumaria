@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Perfumaria/static/css/main.8eafc61a.css",
+    "main.js": "/Perfumaria/static/js/main.88f6420f.js",
+    "static/media/imgNossosValores.png": "/Perfumaria/static/media/imgNossosValores.1946964dc2410773c3e9.png",
+    "static/media/Frame 280.png": "/Perfumaria/static/media/Frame 280.59d7b27840083e3279ab.png",
+    "static/media/Group 4.png": "/Perfumaria/static/media/Group 4.651c7f5c2f43757e5e7b.png",
+    "static/media/imgHomeInicial.png": "/Perfumaria/static/media/imgHomeInicial.0be7622ba9ad421be437.png",
+    "index.html": "/Perfumaria/index.html",
+    "main.8eafc61a.css.map": "/Perfumaria/static/css/main.8eafc61a.css.map",
+    "main.88f6420f.js.map": "/Perfumaria/static/js/main.88f6420f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eafc61a.css",
+    "static/js/main.88f6420f.js"
+  ]
+}
