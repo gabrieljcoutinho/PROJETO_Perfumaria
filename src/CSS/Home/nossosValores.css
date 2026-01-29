@@ -9,7 +9,7 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: normal;
     font-size: 60px;
-    padding-left: 40rem;
+    padding-left: 28rem;
 }
 
 .imgNossosValores {
@@ -39,4 +39,8 @@
 
 .nossoValoresParagrafo::first-letter {
     font-size: 35px;
+}
+
+.conteudoDosParagrafos {
+    padding-left: 25rem;
 }
