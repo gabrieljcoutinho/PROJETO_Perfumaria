@@ -5,7 +5,11 @@ const Home = () => {
   return (
     <div className='section'>
 
-asdf
+          <main className="conteudoInicial">
+            Conteudo Inicial
+          </main>
+
+
     </div>
   )
 }
