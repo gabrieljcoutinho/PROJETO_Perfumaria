@@ -8,10 +8,14 @@ const Home = () => {
     <div className='section'>
 
           <main className="conteudoInicial">
-                <h1>Elevate Your Spirit with <br/> Victory Scented Fragrances</h1>
-                <p>Shop now and embrace the sweet small of victory with Local Face</p>
+              <div className="conteudo">
+              <h1>Elevate Your Spirit with <br/> Victory Scented Fragrances</h1>
+              <p>Shop now and embrace the sweet small of victory with Local Face</p>
+              </div>
 
-              <img src={imgHome} alt="" />
+           <div className="imgPrincipalDiv">
+           <img src={imgHome} alt=""  className='imgConteudoPrincipalHome'/>
+           </div>
 
           </main>
 
