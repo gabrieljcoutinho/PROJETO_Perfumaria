@@ -12,7 +12,7 @@ const Home = () => {
               <h1 className='tituloPrincipal'>Elevate Your Spirit with <br/> Victory Scented Fragrances</h1>
               <p className='paragrafoHomeInicial'>Shop now and embrace the sweet small of victory with Local Face</p>
 
-              <button className="btnDaHomeComrprar">Shop Now</button>
+              <button className="btnDaHomeComprar">Shop Now</button>
               </div>
 
            <div className="imgPrincipalDiv">
