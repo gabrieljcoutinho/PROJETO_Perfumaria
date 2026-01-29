@@ -16,19 +16,23 @@ header {
     list-style: none;
     width: 100%;
     padding: 0;
+    padding-right: 40rem;
+
 }
 
 /* O TRUQUE: Esse margin-left joga os textos e ícones pra direita
    sem criar barra, pois ele ocupa o espaço interno vazio */
 .ulHeader li:first-of-type {
     margin-left: auto;
+
 }
 
 header ul li a {
     color: red;
-    font-size: 20px;
+    font-size: 25px;
     padding-left: 2rem;
     text-decoration: none;
+
 }
 
 .ul-lista {
@@ -40,7 +44,7 @@ header ul li a {
     text-decoration: underline;
 }
 
-.imgHeader{
+.imgHeader {
     padding-left: 5rem;
 }
 
