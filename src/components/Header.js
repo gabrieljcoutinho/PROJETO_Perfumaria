@@ -16,7 +16,7 @@ const Header = () => {
             <li><Link to="/servicos" className="ul-lista">Serviços</Link></li>
             <li><Link to="/blog" className="ul-lista">Blog</Link></li>
       </ul>
-      <img src={listaIconesHeader} alt="" />
+      <img src={listaIconesHeader} alt="" className="imgListaIcones" />
     </header>
   );
 };
