@@ -9,6 +9,9 @@ header {
     padding-right: 2rem;
     position: fixed;
     width: 100%;
+    z-index: 10000;
+    background-color: #000;
+    ;
 }
 
 .ulHeader {
@@ -30,7 +33,6 @@ header {
 }
 
 header ul li a {
-    color: red;
     font-size: 25px;
     padding-left: 2rem;
     text-decoration: none;
