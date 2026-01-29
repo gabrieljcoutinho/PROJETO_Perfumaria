@@ -3,6 +3,7 @@ import "../CSS/Home/section.css"
 import "../CSS/Home/mainConteudoPrincipal.css"
 import "../CSS/Home/btnComprar.css"
 import "../CSS/Home/mainBoasVindas.css"
+import "../CSS/Home/nossosValores.css"
 
 import imgHome from "../assets/imgs/imgHomeInicial.png"
 import imgNossosValores from "../assets/imgs/imgNossosValores.png"
