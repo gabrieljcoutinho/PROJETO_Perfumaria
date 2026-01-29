@@ -1,5 +1,6 @@
 import React from 'react'
 import "../CSS/Home/section.css"
+import "../CSS/Home/mainConteudoPrincipal.css"
 import "../CSS/Home/btnComprar.css"
 
 import imgHome from "../assets/imgs/imgHomeInicial.png"
