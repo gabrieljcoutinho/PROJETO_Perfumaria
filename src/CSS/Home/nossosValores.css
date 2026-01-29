@@ -4,13 +4,6 @@
     display: flex;
 }
 
-.titutloNossoValores {
-    padding-top: 2.5rem;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: normal;
-    font-size: 60px;
-    padding-left: 28rem;
-}
 
 .imgNossosValores {
     width: 900px;
@@ -42,6 +35,16 @@
     font-size: 35px;
 }
 
+.titutloNossoValores {
+    padding-top: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 60px;
+    padding-left: 28rem;
+    padding-top: 5rem;
+}
+
 .conteudoDosParagrafos {
     padding-left: 25rem;
+    padding-top: 6rem;
 }
