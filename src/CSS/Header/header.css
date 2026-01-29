@@ -24,5 +24,6 @@ header ul li a {
 }
 
 .imgListaIcones {
-    transform: rotate(10px);
+    /* Move -10px no eixo Y (para cima) e 10px no eixo X (para a direita) */
+    transform: translate(900px, -50px);
 }
