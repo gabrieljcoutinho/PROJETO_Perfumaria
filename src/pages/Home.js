@@ -69,7 +69,7 @@ const Home = () => {
 
 
         <main className="boasVindasAoSite">
-
+            <p className='teste'>TESTANDO TEXTo</p>
         </main>
 
     </div>
