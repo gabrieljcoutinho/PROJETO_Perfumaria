@@ -1,9 +1,10 @@
 .nossosValores {
     color: #fff;
-
+    font-family: 'Montserrat', sans-serif;
     display: flex;
 }
 
-.imgNossosValores{
+.imgNossosValores {
     width: 900px;
+    font-family: 'Montserrat', sans-serif;
 }
