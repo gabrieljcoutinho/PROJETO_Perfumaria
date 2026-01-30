@@ -9,6 +9,8 @@ import "../CSS/Home/mainColecoes.css"
 import "../CSS/Home/mainSecaoPromocao.css"
 import "../CSS/Home/mainPerfumesMaisRecentes.css"
 
+import Footer from "../components/Footer"
+
 import imgHome from "../assets/imgs/imgHomeInicial.png"
 import imgNossosValores from "../assets/imgs/imgNossosValores.png"
 import imgProdutos from "../assets/imgs/Frame 280.png"
@@ -207,6 +209,8 @@ const Home = () => {
 
                   <img src={img9} alt="" className='imgperfumeRecentes' />
           </main>
+
+          <Footer />
 
     </div>
   )
