@@ -183,6 +183,8 @@ const Home = () => {
 
         <div className="mainSecaoPromocao">
 
+        <h2>Perfume year-End Sale!</h2>
+
     <img src={img8} alt="" className='imgPromocao' />
 
         </div>
