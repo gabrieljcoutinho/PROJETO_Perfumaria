@@ -167,7 +167,7 @@ const Home = () => {
 
           <div className="perfumes">
             <img src={img6} alt="" className='img6'/>
-            <p>limited Ediiton Treasures</p>
+            <p className='pImg6'>limited Ediiton Treasures</p>
           </div>
 
           <div className="perfumes">
