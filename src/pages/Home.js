@@ -198,7 +198,7 @@ const Home = () => {
       </main>
 
           <main className="perfumesMaisRecentes">
-                  teste
+                  <h2>Latest Articles</h2>
           </main>
 
     </div>
