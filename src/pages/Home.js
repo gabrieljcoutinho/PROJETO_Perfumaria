@@ -186,7 +186,7 @@ const Home = () => {
         <h2 className='tituloPromocao'>Perfume year-End Sale!</h2>
 
     <img src={img8} alt="" className='imgPromocao' />
-
+        <p className="paragrafoPerfumeEmPromocao">Discover and exquisite collections of premium perfumes at umbelievable prices during our exclusive Perfume Sale!</p>
         </div>
 
 <br />
