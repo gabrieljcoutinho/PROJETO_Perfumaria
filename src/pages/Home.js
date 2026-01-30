@@ -5,6 +5,7 @@ import "../CSS/Home/btnComprar.css"
 import "../CSS/Home/mainBoasVindas.css"
 import "../CSS/Home/nossosValores.css"
 import "../CSS/Home/amostraProdutosMain.css"
+import "../CSS/Home/mainColecoes.css"
 
 import imgHome from "../assets/imgs/imgHomeInicial.png"
 import imgNossosValores from "../assets/imgs/imgNossosValores.png"
@@ -115,6 +116,10 @@ const Home = () => {
         <img src={imgProdutos}  className='imgProdutos' alt="" />
           </main>
 
+
+        <div className="mainColecoes">
+
+        </div>
 
 <br />
     </div>
