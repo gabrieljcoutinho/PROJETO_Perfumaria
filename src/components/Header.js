@@ -11,10 +11,6 @@ const Header = () => {
             <img src={imgLogo} alt="" className="imgHeader" />
       <ul className="ulHeader">
             <li><Link to="/" className="ul-lista">Home</Link></li>
-            <li><Link to="/loja" className="ul-lista">Loja</Link></li>
-            <li><Link to="/sobrenos" className="ul-lista">Sobre Nós</Link></li>
-            <li><Link to="/servicos" className="ul-lista">Serviços</Link></li>
-            <li><Link to="/blog" className="ul-lista">Blog</Link></li>
       </ul>
       <img src={listaIconesHeader} alt="" className="imgListaIcones" />
     </header>
