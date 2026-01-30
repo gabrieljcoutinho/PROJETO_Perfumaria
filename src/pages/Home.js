@@ -130,7 +130,7 @@ const Home = () => {
           </main>
 
 
-        <div className="mainColecoes">
+        <main className="mainColecoes">
 
             <h2 className="mainColecoesPerfumeTitulo">Our Colections</h2>
 
@@ -178,7 +178,7 @@ const Home = () => {
           </div>
           </div>
 
-        </div>
+        </main>
 
 
         <div className="mainSecaoPromocao">
@@ -192,11 +192,14 @@ const Home = () => {
         umbelievable prices during our exclusive Perfume Sale!</p>
         </div>
 
-      <div className="movimentacaoBtnComprarPerfumePromocao">
+      <main className="movimentacaoBtnComprarPerfumePromocao">
       <button class="btn-brown">Know More</button>
-      </div>
+      </main>
 
-<br />
+          <main className="perfumesMaisRecentes">
+
+          </main>
+
     </div>
   )
 }
