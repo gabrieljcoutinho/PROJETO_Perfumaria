@@ -46,5 +46,9 @@
 }
 
 .img3Perfumes{
-    transform: translate(230px, -110px);
+    transform: translate(230px, -50px);
+}
+
+.img4Perfumes{
+    transform: translate(530px, -50px);
 }
