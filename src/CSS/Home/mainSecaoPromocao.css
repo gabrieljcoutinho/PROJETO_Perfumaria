@@ -28,3 +28,31 @@
     transform: translate(-500px, -500px);
     font-size: 30px;
 }
+
+.btn-brown {
+    background-color: #AB572D;
+    /* Um marrom elegante */
+    color: white;
+    /* Cor do texto */
+    padding: 12px 24px;
+    /* Espaçamento interno */
+    border: none;
+    /* Remove a borda padrão */
+    border-radius: 50px;
+    /* Deixa as bordas bem arredondadas */
+    font-size: 16px;
+    /* Tamanho da fonte */
+    font-weight: bold;
+    /* Texto em negrito */
+    cursor: pointer;
+    /* Muda o cursor para a "mãozinha" */
+    transition: background-color 0.3s ease;
+    /* Transição suave de cor */
+    font-family: sans-serif;
+}
+
+/* Efeito ao passar o mouse */
+.btn-brown:hover {
+    background-color: #4E342E;
+    /* Um marrom um pouco mais escuro */
+}
