@@ -8,7 +8,7 @@ const Footer = () => {
 
             <h4>Local Face</h4>
 
-
+    <p className='seInscrever'>Subscribe to  Our Newlsetter</p>
 
 
         </div>
