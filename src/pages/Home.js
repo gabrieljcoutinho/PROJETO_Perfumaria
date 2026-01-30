@@ -14,6 +14,8 @@ import imgProdutos from "../assets/imgs/Frame 280.png"
 import img1 from "../assets/imgs/Group 14.png"
 import img2 from "../assets/imgs/wcwsc 1.png"
 
+import img3 from "../assets/imgs/Group 17.png"
+
 const Home = () => {
   return (
     <div className='section'>
@@ -138,6 +140,10 @@ const Home = () => {
               </div>
             </div>
 
+
+            <div className="perfumes">
+              <img src={img3} alt="" />
+            </div>
         </div>
 
 <br />
