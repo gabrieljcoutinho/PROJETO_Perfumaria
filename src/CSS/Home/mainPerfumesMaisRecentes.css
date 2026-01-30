@@ -1,8 +1,9 @@
 .perfumesMaisRecentes {
-    height: 900px;
-    background-color: #fff;
+    height: 1200px;
+    background-color: #000;
+
 }
 
 .imgperfumeRecentes {
-    width: 2000px;
+    width: 1800px;
 }
