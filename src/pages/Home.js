@@ -22,7 +22,7 @@ import img5 from "../assets/imgs/Old fashion black & gold color perfume bottles 
 import img6 from "../assets/imgs/kuroswan972_I_want_to_create_a_cube_stunning_photo_of_the_Mysti_14ae08f2-16bb-4e85-b781-bf371c99faf1 2.png"
 import img7 from "../assets/imgs/NOUILLEPASCUITE_Perfum_modern_shoot_for_vogue_rectangular_shot__036e3104-df47-445e-956e-04f1978997e2 1.png"
 
-import img* from "../assets/imgs/fundoPromocao.png"
+import img8 from "../assets/imgs/fundoPromocao.png"
 
 const Home = () => {
   return (
