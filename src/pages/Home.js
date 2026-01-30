@@ -119,6 +119,8 @@ const Home = () => {
 
         <div className="mainColecoes">
 
+            <h2 className="mainColecoesPerfumeTitulo">Our Colections</h2>
+
         </div>
 
 <br />
