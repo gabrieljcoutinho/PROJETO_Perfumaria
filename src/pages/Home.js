@@ -182,7 +182,9 @@ const Home = () => {
 
 
         <div className="mainSecaoPromocao">
-sdf
+
+    <img src={img8} alt="" />
+
         </div>
 
 <br />
