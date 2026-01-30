@@ -44,3 +44,7 @@
 .img4Perfumes {
     width: 794px;
 }
+
+.img3Perfumes{
+    transform: translate(230px, -110px);
+}
