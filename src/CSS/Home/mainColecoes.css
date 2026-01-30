@@ -64,6 +64,7 @@
 
 .perfumesSecao3 {
     display: flex;
+    justify-content: space-around;
 }
 
 .img5 {
@@ -71,9 +72,9 @@
 }
 
 .img6 {
-    width:681px;
+    width: 681px;
 }
 
-.img7{
-    width:612px;
+.img7 {
+    width: 612px;
 }
