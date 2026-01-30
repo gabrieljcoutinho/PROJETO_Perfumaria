@@ -84,6 +84,7 @@
     width: 612px;
 }
 
-.pImg5{
-    
+.pImg5 {
+    transform: translate(-10px, -100px);
+    color: #fff;
 }
