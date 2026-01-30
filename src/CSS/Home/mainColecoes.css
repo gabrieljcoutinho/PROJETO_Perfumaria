@@ -1,5 +1,17 @@
+.mainColecoes {
+    background-color: #fff;
+    height: 1500px;
+}
+
 .mainColecoesPerfumeTitulo {
     color: orange;
     padding-bottom: 3rem;
     font-size: 40px;
+
+}
+
+.colecoesPerfumesLista {
+    display: flex;
+    padding-left: 10em;
+    justify-content: space-around;
 }
