@@ -10,6 +10,7 @@ const Footer = () => {
 
     <p className='seInscrever'>Subscribe to  Our Newlsetter</p>
 
+        <p className='subTexto'>Receive update on New Arrivals and  Special Promotions</p>
 
         </div>
   )
