@@ -8,7 +8,7 @@ const Footer = () => {
 
             <h4>Local Face</h4>
 
-         
+
 
 
         </div>
