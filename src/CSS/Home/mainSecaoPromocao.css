@@ -15,7 +15,9 @@
 
 }
 
-.subTituloPromocao {}
+.subTituloPromocao {
+    color: #fff
+}
 
 .paragrafoPerfumeEmPromocao {
     color: #fff;
