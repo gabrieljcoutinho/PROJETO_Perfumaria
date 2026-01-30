@@ -39,7 +39,6 @@
     font-weight: bold;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    /* Transição suave de cor */
     font-family: sans-serif;
 }
 
