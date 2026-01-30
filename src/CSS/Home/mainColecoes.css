@@ -1,6 +1,6 @@
 .mainColecoes {
     background-color: #fff;
-    height: 2000px;
+    height: 2500px;
 }
 
 .mainColecoesPerfumeTitulo {
@@ -60,4 +60,8 @@
     font-family: 'Montserrat', sans-serif;
     transform: translate(450px, -180px);
     color: #fff;
+}
+
+.perfumesSecao3 {
+    display: flex;
 }
