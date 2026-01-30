@@ -15,6 +15,7 @@ import img1 from "../assets/imgs/Group 14.png"
 import img2 from "../assets/imgs/wcwsc 1.png"
 
 import img3 from "../assets/imgs/Group 17.png"
+import img4 from "../assets/imgs/Nele_he_perfume_You_or_some_one_like_you_of_Etat_Libre_dOrange__daa24d6d-5e28-424b-93f9-0fbcc7e774fd 1.png"
 
 const Home = () => {
   return (
@@ -141,9 +142,18 @@ const Home = () => {
             </div>
 
 
+            <div className="perfumesSecao2">
             <div className="perfumes">
-              <img src={img3} alt="" />
+              <img src={img3} alt="" className='img3Perfumes'/>
             </div>
+
+            <div className="perfumes" >
+              <img src={img4} alt="" className='img4Perfumes'/>
+              </div>
+
+              </div>
+
+
         </div>
 
 <br />
