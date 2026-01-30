@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='Footer'>
 
 
-<h1>Footer</h1>
+<h4>Local Face</h4>
 
 
         </div>
