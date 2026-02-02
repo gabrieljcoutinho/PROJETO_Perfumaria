@@ -1,7 +1,9 @@
 .divOfertaEspecial {
 
-    background-color: #fff;
+    background-color: #000;
     height: 900px;
+    color: #fff;
+    font-family: 'Montserrat';
 }
 
 .imgPromocaoLoja {
