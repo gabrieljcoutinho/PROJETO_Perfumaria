@@ -11,6 +11,7 @@ const OfertaEspecial = (props: Props) => {
         <h1 className='tituloSecaoPrincipal'>Especial Ofers</h1>
            <div className="conteudoEscrito">
             <h3 className='subTituloPromocao'>Limited Time Offer: 20% OFF on Aqua Serenity Perfume!</h3>
+            <h5>Aqua Serenity</h5>
             <p className='paragrafoConteudoOferta'>Immerse yourself in the calming embrace of Aqua Serenity, a captivating fragrance that evokes the essence of water.</p>
            </div>
 
