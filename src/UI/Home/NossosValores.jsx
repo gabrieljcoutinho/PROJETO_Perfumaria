@@ -1,5 +1,5 @@
 import React from 'react'
-import imgNossosValores from "../../../src/assets/imgs/imgNossosValores.png"
+import imgNossosValores from "../../../src/assets/imgsHome/imgNossosValores.png"
 
 type Props = {}
 
