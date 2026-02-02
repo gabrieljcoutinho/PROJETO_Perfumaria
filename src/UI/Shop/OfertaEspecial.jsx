@@ -8,8 +8,9 @@ type Props = {}
 const OfertaEspecial = (props: Props) => {
   return (
     <div className='divOfertaEspecial'>
+        <h1>Especial Ofers</h1>
            <div className="conteudoEscrito">
-           Immerse yourself in the calming embrace of Aqua Serenity, a captivating fragrance that evokes the essence of water.
+            <p className='paragrafoConteudoOferta'>Immerse yourself in the calming embrace of Aqua Serenity, a captivating fragrance that evokes the essence of water.</p>
            </div>
 
            <div className="imgPromocao">
