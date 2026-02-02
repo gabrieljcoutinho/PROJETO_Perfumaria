@@ -61,6 +61,7 @@
 
     /* Transição suave para o efeito de hover */
     transition: all 0.3s ease;
+    transform: translate(-400px, -350px);
 }
 
 /* Efeito ao passar o mouse */
