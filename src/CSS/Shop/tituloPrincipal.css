@@ -1,0 +1,9 @@
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    /* Move 100px para a ESQUERDA e 100px para BAIXO */
+    transform: translate(0px, 100px);
+    text-align: center;
+    color: #fff;
+    color: #AB572D;
+}
