@@ -1,6 +1,6 @@
 import React from 'react'
-
 import "../../CSS/Shop/listaProdutos.css"
+import "../../CSS/Shop/flexBox.css"
 
 import img1 from "../../assets/imgShop/perfumeLoja1.png"
 import img2 from "../../assets/imgShop/perfumeLoja2.png"
@@ -15,78 +15,59 @@ import img10 from "../../assets/imgShop/perfumeLoja10.png"
 import img11 from "../../assets/imgShop/perfumeLoja11.png"
 import img12 from "../../assets/imgShop/perfumeLoja12.png"
 
-
 type Props = {}
 
 const ListaDeProdutos = (props: Props) => {
   return (
     <div className='listaDeProdutos'>
 
-                <div className="flexBox">
+      {/* Primeiro Bloco */}
+      <div className="flexBox">
+        <div className="divConteudo">
+          <img src={img1} alt="Perfume 1" />
+        </div>
+        <div className="divConteudo">
+          <img src={img2} alt="Perfume 2" />
+        </div>
+        <div className="divConteudo">
+          <img src={img3} alt="Perfume 3" />
+        </div>
+        <div className="divConteudo">
+          <img src={img4} alt="Perfume 4" />
+        </div>
+      </div>
 
-                    <div className="divConteudo">
+      {/* Segundo Bloco */}
+      <div className="flexBox">
+        <div className="divConteudo">
+          <img src={img5} alt="Perfume 5" />
+        </div>
+        <div className="divConteudo">
+          <img src={img6} alt="Perfume 6" />
+        </div>
+        <div className="divConteudo">
+          <img src={img7} alt="Perfume 7" />
+        </div>
+        <div className="divConteudo">
+          <img src={img8} alt="Perfume 8" />
+        </div>
+      </div>
 
-                    </div>
-
-                    <div className="divConteudo">
-
-                        </div>
-
-                        <div className="divConteudo">
-
-                        </div>
-
-                        <div className="divConteudo">
-
-                        </div>
-
-
-                </div>
-
-
-
-                <div className="flexBox">
-
-<div className="divConteudo">
-
-</div>
-
-<div className="divConteudo">
-
-    </div>
-
-    <div className="divConteudo">
-
-    </div>
-
-    <div className="divConteudo">
-
-    </div>
-
-
-</div>
-
-
-<div className="flexBox">
-
-<div className="divConteudo">
-
-</div>
-
-<div className="divConteudo">
-
-    </div>
-
-    <div className="divConteudo">
-
-    </div>
-
-    <div className="divConteudo">
-
-    </div>
-
-
-</div>
+      {/* Terceiro Bloco */}
+      <div className="flexBox">
+        <div className="divConteudo">
+          <img src={img9} alt="Perfume 9" />
+        </div>
+        <div className="divConteudo">
+          <img src={img10} alt="Perfume 10" />
+        </div>
+        <div className="divConteudo">
+          <img src={img11} alt="Perfume 11" />
+        </div>
+        <div className="divConteudo">
+          <img src={img12} alt="Perfume 12" />
+        </div>
+      </div>
 
     </div>
   )
