@@ -1,8 +1,14 @@
 .flexBox {
     display: flex;
     padding-bottom: 10rem;
+    justify-content: space-between;
+    padding: 10rem;
 }
 
 .divConteudo {
-    background-color: #fff;
+    background-color: #252525;
+    border-radius: 20px;
+    width: 400px;
+    height: 600px;
+
 }
