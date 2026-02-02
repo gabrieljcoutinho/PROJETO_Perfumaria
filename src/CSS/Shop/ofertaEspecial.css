@@ -3,3 +3,7 @@
     background-color: #fff;
     height: 900px;
 }
+
+.imgPromocaoLoja {
+    transform: translate(-675px, 70px);
+}
