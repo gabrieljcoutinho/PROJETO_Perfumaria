@@ -1,5 +1,5 @@
 import React from 'react'
-import img8 from "../../assets/imgs/fundoPromocao.png"
+import img8 from "../../assets/imgHome/fundoPromocao.png"
 type Props = {}
 
 const MainSecaoPromocao = (props: Props) => {
