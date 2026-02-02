@@ -4,9 +4,9 @@ const Shop = () => {
   return (
     <div>
 
+        
 
-
-        TEstadszasdad</div>
+    </div>
   )
 }
 
