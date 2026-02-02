@@ -10,17 +10,13 @@ import "../CSS/Home/mainSecaoPromocao.css"
 import "../CSS/Home/mainPerfumesMaisRecentes.css"
 
 
-
-
-import img9 from "../assets/imgs/imgPerfumesRecentes.png"
-
-
 import ConteudoInicial from "../UI/Home/ConteudoInicial"
 import BoasVindas from "../UI/Home/BoasVindas"
 import NossosValores from "../UI/Home/NossosValores"
 import AmostraProdutos from "../UI/Home/AmostraProdutos"
 import MainColecoes from "../UI/Home/MainColecoes"
 import MainSecaoPromocao from "../UI/Home/MainSecaoPromocao"
+import MainPerfumesMaisRecentes from "../UI/Home/MainPerfumesMaisRecentes"
 
 import Footer from "../components/Footer"
 
@@ -40,15 +36,11 @@ const Home = () => {
 
           <MainSecaoPromocao />
 
+          <MainPerfumesMaisRecentes />
 
 
 
 
-          <main className="perfumesMaisRecentes">
-                  <h2 className='subTituloPerfumesRecente'>Latest Articles</h2>
-
-                  <img src={img9} alt="" className='imgperfumeRecentes' />
-          </main>
 <br /><br /><br />
           <Footer />
 
