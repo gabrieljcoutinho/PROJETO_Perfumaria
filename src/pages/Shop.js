@@ -3,6 +3,7 @@ import React from 'react';
 import MarcacaoDePagina from '../UI/Shop/MarcacaoDePagina';
 import TituloPrincipalDaPaginaShop from "../UI/Shop/TituloPrincipalDaPaginaShop"
 import ListaProdutos from "../UI/Shop/ListaDeProdutos"
+import OfertaEspecial from "../UI/Shop/OfertaEspecial"
 
 
 
@@ -12,8 +13,9 @@ const Shop = () => {
       <MarcacaoDePagina />
       <TituloPrincipalDaPaginaShop />
       <ListaProdutos />
+      <OfertaEspecial />
 
-  
+
     </div>
   );
 };
