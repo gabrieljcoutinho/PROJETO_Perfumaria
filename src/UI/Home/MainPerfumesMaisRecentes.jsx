@@ -1,6 +1,6 @@
 import React from 'react'
 
-import img9 from "../../assets/imgs/imgPerfumesRecentes.png"
+import img9 from "../../assets/imgHome/imgPerfumesRecentes.png"
 
 type Props = {}
 
