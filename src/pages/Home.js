@@ -41,7 +41,7 @@ const Home = () => {
 
 
 
-        <div className="mainSecaoPromocao">
+        <main className="mainSecaoPromocao">
 
         <h2 className='tituloPromocao'>Perfume year-End Sale!</h2>
 
@@ -53,7 +53,7 @@ const Home = () => {
         <main className="movimentacaoBtnComprarPerfumePromocao">
       <button class="btn-brown">Know More</button>
       </main>
-        </div>
+        </main>
 
 
 
