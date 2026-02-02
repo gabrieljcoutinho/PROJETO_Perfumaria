@@ -1,11 +1,12 @@
 .mainColecoes {
     background-color: #000;
     height: 2500px;
+
 }
 
 .mainColecoesPerfumeTitulo {
     color: orange;
-    padding-bottom: 3rem;
+    padding-bottom: 10rem;
     font-size: 60px;
     padding-top: 1.5rem;
 
