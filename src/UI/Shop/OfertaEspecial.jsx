@@ -1,4 +1,7 @@
 import React from 'react'
+import "../../CSS/Shop/ofertaEspecial.css"
+
+
 
 type Props = {}
 
