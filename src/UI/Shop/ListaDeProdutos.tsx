@@ -25,22 +25,22 @@ const ListaDeProdutos = (props: Props) => {
       <div className="flexBox">
         <div className="divConteudo">
           <img src={img1} alt="Perfume 1" />
-            <h3>Luxurius Elixir Rough</h3>
+            <h3 className='tituloDosPerfumesLista'>Luxurius Elixir Rough</h3>
         </div>
 
         <div className="divConteudo">
           <img src={img2} alt="Perfume 2" />
-          <h3>The Golden legacy</h3>
+          <h3 className='tituloDosPerfumesLista'>The Golden legacy</h3>
         </div>
 
         <div className="divConteudo">
           <img src={img3} alt="Perfume 3" />
-          <h3>Luxurious Elixir</h3>
+          <h3 className='tituloDosPerfumesLista'>Luxurious Elixir</h3>
         </div>
 
         <div className="divConteudo">
           <img src={img4} alt="Perfume 4" />
-          <h3>Luxurius Essence</h3>
+          <h3 className='tituloDosPerfumesLista'>Luxurius Essence</h3>
         </div>
 
       </div>
@@ -50,22 +50,22 @@ const ListaDeProdutos = (props: Props) => {
 
         <div className="divConteudo">
           <img src={img5} alt="Perfume 5" />
-          <h3>Aurum Aura</h3>
+          <h3 className='tituloDosPerfumesLista'>Aurum Aura</h3>
         </div>
 
         <div className="divConteudo">
           <img src={img6} alt="Perfume 6" />
-          <h3>Gleaming Gilt</h3>
+          <h3 className='tituloDosPerfumesLista'>Gleaming Gilt</h3>
         </div>
 
         <div className="divConteudo">
           <img src={img7} alt="Perfume 7" />
-          <h3>Gilden Elixir Rough</h3>
+          <h3 className='tituloDosPerfumesLista'>Gilden Elixir Rough</h3>
         </div>
 
         <div className="divConteudo">
           <img src={img8} alt="Perfume 8" />
-          <h3>Golden Luminary</h3>
+          <h3 className='tituloDosPerfumesLista'>Golden Luminary</h3>
         </div>
 
       </div>
@@ -74,22 +74,22 @@ const ListaDeProdutos = (props: Props) => {
       <div className="flexBox">
         <div className="divConteudo">
           <img src={img9} alt="Perfume 9" />
-          <h3>Decadent Opal</h3>
+          <h3 className='tituloDosPerfumesLista'>Decadent Opal</h3>
         </div>
 
         <div className="divConteudo">
           <img src={img10} alt="Perfume 10" />
-          <h3>Gilden Elixir</h3>
+          <h3 className='tituloDosPerfumesLista'>Gilden Elixir</h3>
         </div>
 
         <div className="divConteudo">
           <img src={img11} alt="Perfume 11" />
-          <h3>Glamourus Gilt</h3>
+          <h3 className='tituloDosPerfumesLista'>Glamourus Gilt</h3>
         </div>
 
         <div className="divConteudo">
           <img src={img12} alt="Perfume 12" />
-          <h3>Luxury Enigma</h3>
+          <h3 className='tituloDosPerfumesLista'>Luxury Enigma</h3>
         </div>
       </div>
 
