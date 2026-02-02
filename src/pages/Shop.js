@@ -4,7 +4,7 @@ const Shop = () => {
   return (
     <div>
 
-<br /><br />
+
 
         TEstadszasdad</div>
   )
