@@ -13,7 +13,9 @@
 
 }
 
-.tituloDosPerfumesLista{
+.tituloDosPerfumesLista {
     color: #fff;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
 }
