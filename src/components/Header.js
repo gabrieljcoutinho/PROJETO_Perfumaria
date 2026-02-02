@@ -8,11 +8,13 @@ import listaIconesHeader from "../assets/imgs/Frame 2.png"
 const Header = () => {
   return (
     <header className="header container">
-            <img src={imgLogo} alt="" className="imgHeader" />
+      <img src={imgLogo} alt="Logo" className="imgHeader" />
       <ul className="ulHeader">
-            <li><Link to="/" className="ul-lista"></Link></li>
+        {/* Ajustado para bater com o path="/" do AppRoutes */}
+        <li><Link to="/" className="ul-lista">Home</Link></li>
+        <li><Link to="/shop" className="ul-lista">Shop</Link></li>
       </ul>
-      <img src={listaIconesHeader} alt="" className="imgListaIcones" />
+      <img src={listaIconesHeader} alt="Ícones" className="imgListaIcones" />
     </header>
   );
 };
