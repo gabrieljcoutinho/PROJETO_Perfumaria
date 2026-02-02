@@ -20,7 +20,7 @@ const OfertaEspecial = (props: Props) => {
             <img src={imgPromocaoPerfume} alt="" className='imgPromocaoLoja' />
            </div>
 
-           <button>Know More</button>
+           <button className='btnKnowMoreOferta'>Know More</button>
         </div>
   )
 }
