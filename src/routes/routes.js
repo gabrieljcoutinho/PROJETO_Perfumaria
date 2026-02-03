@@ -5,9 +5,11 @@ import Home from '../pages/Home';
 import Shop from '../pages/Shop';
 
 const AppRoutes = () => {
+  // Isso verifica se você está no computador (localhost) ou no GitHub
+  const base = window.location.hostname === 'localhost' ? '/' : '/Perfumaria';
+
   return (
-    /* O basename precisa ser EXATAMENTE o nome do seu repositório no GitHub */
-    <BrowserRouter basename="/Perfumaria">
+    <BrowserRouter basename={base}>
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -16,11 +18,7 @@ const AppRoutes = () => {
         {/* Rota de segurança: se digitar algo errado, volta para a Home */}
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
-
-
     </BrowserRouter>
-
-
   );
 };
 
