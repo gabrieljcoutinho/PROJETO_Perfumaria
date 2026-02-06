@@ -5,7 +5,7 @@ type Props = {}
 
 const PerfumeDeOuro = (props: Props) => {
   return (
-    <div className='mainPerfumeDeOuro'><h1>PerfumeDdfgdgdsgdfeOuro</h1></div>
+    <div className='mainPerfumeDeOuro'></div>
   )
 }
 
