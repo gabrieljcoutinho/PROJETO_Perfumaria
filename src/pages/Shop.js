@@ -4,6 +4,7 @@ import MarcacaoDePagina from '../UI/Shop/MarcacaoDePagina';
 import TituloPrincipalDaPaginaShop from "../UI/Shop/TituloPrincipalDaPaginaShop"
 import ListaProdutos from "../UI/Shop/ListaDeProdutos"
 import OfertaEspecial from "../UI/Shop/OfertaEspecial"
+import PerfumeDeOuro from "../UI/Shop/PerfumeDeOuro"
 
 
 
@@ -14,6 +15,7 @@ const Shop = () => {
       <TituloPrincipalDaPaginaShop />
       <ListaProdutos />
       <OfertaEspecial />
+      <PerfumeDeOuro />
 
 
     </div>
