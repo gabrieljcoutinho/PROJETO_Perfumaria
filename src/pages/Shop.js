@@ -5,6 +5,7 @@ import TituloPrincipalDaPaginaShop from "../UI/Shop/TituloPrincipalDaPaginaShop"
 import ListaProdutos from "../UI/Shop/ListaDeProdutos"
 import OfertaEspecial from "../UI/Shop/OfertaEspecial"
 import PerfumeDeOuro from "../UI/Shop/PerfumeDeOuro"
+import Footer from "../components/Footer"
 
 
 
@@ -17,7 +18,7 @@ const Shop = () => {
       <OfertaEspecial />
       <PerfumeDeOuro />
 
-
+<Footer />
     </div>
   );
 };
