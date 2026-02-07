@@ -1,4 +1,6 @@
 .amostraDeBebida {
     background-color: #fff;
-    height: 500px;
+    height: 1500px;
+    background-image: url(../../assets/imgAboutUs/imgFundoBebidas.png);
+    background-size: cover;
 }
