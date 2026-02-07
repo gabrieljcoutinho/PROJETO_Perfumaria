@@ -1,6 +1,4 @@
-
-
 .mainPerfumeDeOuro {
-    background-color: #fff;
+    background: radial-gradient(circle at 30% 50%, #2b1a10 0%, #000000 85%);
     height: 800px;
 }
