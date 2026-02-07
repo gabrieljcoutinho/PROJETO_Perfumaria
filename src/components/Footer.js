@@ -28,7 +28,11 @@ const Footer = () => {
 
               <div className="listas  shopping">
                   <h5>Shopping</h5>
-                <ul></ul>
+                <ul>
+                  <li>Payments</li>
+                  <li></li>
+                  <li></li>
+                </ul>
               </div>
 
               <div className="listas  custumer">
