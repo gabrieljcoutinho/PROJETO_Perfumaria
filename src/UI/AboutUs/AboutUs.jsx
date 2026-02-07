@@ -7,6 +7,7 @@ const AboutUs = (props: Props) => {
   return (
     <div className='aboutUsSection'>
         <h1>About US</h1>
+        <p></p>
     </div>
   )
 }
