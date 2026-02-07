@@ -48,8 +48,16 @@ header ul li a {
     text-decoration: underline;
 }
 
+/* Remova ou mantenha o :active para o efeito de clique rápido */
 .ul-lista:active {
     color: red;
+}
+
+/* Adicione esta classe para o estado PERMANENTE */
+.ul-lista.active {
+    color: red; /* Ou a cor que você desejar para o link ativo */
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 .imgHeader {
