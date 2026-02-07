@@ -43,3 +43,25 @@
 }
 
 
+.btn-know-more {
+    background: transparent;
+    /* fundo transparente */
+    color: #fff;
+    /* texto branco */
+    border: 2px solid #fff;
+    /* borda branca */
+    padding: 10px 28px;
+    border-radius: 10px;
+    /* cantos arredondados */
+    font-size: 20px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+/* efeito hover */
+.btn-know-more:hover {
+    background: rgba(255, 255, 255, 0.15);
+    /* leve destaque */
+    transform: scale(1.05);
+}
