@@ -9,29 +9,7 @@ h2 {
 }
 
 .paragrafoOurStory {
-    /* Tipografia e Cor */
-    color: #ffffff;
+    color: #fff;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.1rem;
-    line-height: 1.6;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-
-    /* Layout e Espaçamento */
-    max-width: 600px;
-    padding: 2rem;
-    margin: 20px auto; /* Centraliza horizontalmente */
-
-    /* Estilo Glassmorphism */
-    background: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
-    border-radius: 15px;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-
-    /* Animação de entrada */
-    opacity: 0;
-    transform: translateY(30px); /* Começa um pouco abaixo */
-    animation: fadeInUp 0.8s ease-out forwards;
-}
-
+    transform: translate(-100px, 150px);
 }
