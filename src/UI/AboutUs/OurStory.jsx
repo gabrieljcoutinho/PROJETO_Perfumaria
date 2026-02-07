@@ -6,7 +6,7 @@ type Props = {}
 const OurStory = (props: Props) => {
   return (
     <div className='ourStoryDiv'>
-        <h2>novo css</h2>
+        <h2>Our Story</h2>
     </div>
   )
 }
