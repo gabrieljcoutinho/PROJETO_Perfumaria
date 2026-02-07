@@ -14,7 +14,7 @@ const PerfumeDeOuro = (props: Props) => {
           <img src={imgDeOuro} alt=""  className='imgPerfumeDeOuro'/>
               <div className="textoConteudoPerfumeDeouro">
                   <h1>Limited Time Offer: 25% OFF <br/> on Golden Algel Perfume</h1>
-                  <h2>Golden Algel</h2>
+                  <h2 >Golden Algel</h2>
                   <p className="paragrafoDeOuro">Unleash Your Divine Glow</p>
               </div>
           </main>
