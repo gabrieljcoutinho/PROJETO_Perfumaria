@@ -51,7 +51,7 @@ header ul li a {
 
 /* Adicione esta classe para o estado PERMANENTE */
 .ul-lista.active {
-    color: red;
+    color: rgba(255, 255, 255, 0.9);
     /* Ou a cor que você desejar para o link ativo */
     font-weight: bold;
     text-decoration: underline;
