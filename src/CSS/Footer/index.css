@@ -31,8 +31,9 @@ h4 {
 
 .todasAsListas {
     display: flex;
-    padding-left: 60rem;
+    padding-left: 80rem;
     color: red;
     font-size: 30px;
-    gap: 20px;
+    gap: 100px;
+    transform: translate(00px, -200px);
 }
