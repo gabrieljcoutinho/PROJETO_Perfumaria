@@ -18,6 +18,7 @@ const PerfumeDeOuro = (props: Props) => {
                   <p className='paragrafoDescricao'>Indulge in the divine allure of Golden Angel, a fragrance that embodies celestial elegance and radiance.</p>
               </div>
               <img src={imgDeOuro} alt=""  className='imgPerfumeDeOuro'/>
+              <button class="btn-transparente">Clique Aqui</button>
           </main>
 
 
