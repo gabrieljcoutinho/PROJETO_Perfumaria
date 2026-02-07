@@ -28,3 +28,13 @@ h4 {
     font-size: 30;
     transform: translate(-700px, 50px);
 }
+
+.todasAsListas {
+    display: flex;
+}
+
+h5 {
+    color: #fff;
+    transform: translate(200px, 50px);
+    font-size: 20px;
+}
