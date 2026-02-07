@@ -37,7 +37,7 @@ const Footer = () => {
 
               <div className="listas  custumer">
                   <h5>Customer care</h5>
-                  <li></li>
+                  <li>Help center</li>
                   <li></li>
                   <li></li>
                   <li></li>
