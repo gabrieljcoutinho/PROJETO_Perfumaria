@@ -4,18 +4,20 @@ import "../../src/CSS/Footer/index.css"
 const Footer = () => {
   return (
     <footer className='Footer'>
-      <div className="footer-content">
-        <h4>Local Face</h4>
+      <div className="footer-container">
 
-        <div className="newsletter">
+        {/* LADO ESQUERDO: Marca e Newsletter */}
+        <div className="footer-brand">
+          <h4>Local Face</h4>
           <p className='seInscrever'>Subscribe to Our Newsletter</p>
           <p className='subTexto'>Receive updates on New Arrivals and Special Promotions</p>
         </div>
 
+        {/* LADO DIREITO: Listas de links */}
         <div className="todasAsListas">
-          <div className="listas categoria">
+          <div className="listas">
             <h5>Categorias</h5>
-            <ul className='listaDasCategorias'>
+            <ul>
               <li>Fashion</li>
               <li>Jewelry</li>
               <li>Sports</li>
@@ -24,7 +26,7 @@ const Footer = () => {
             </ul>
           </div>
 
-          <div className="listas shopping">
+          <div className="listas">
             <h5>Shopping</h5>
             <ul>
               <li>Payments</li>
@@ -33,7 +35,7 @@ const Footer = () => {
             </ul>
           </div>
 
-          <div className="listas custumer">
+          <div className="listas">
             <h5>Customer care</h5>
             <ul>
               <li>Help center</li>
@@ -44,6 +46,7 @@ const Footer = () => {
             </ul>
           </div>
         </div>
+
       </div>
     </footer>
   )
