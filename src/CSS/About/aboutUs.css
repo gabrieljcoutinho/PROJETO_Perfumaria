@@ -2,17 +2,7 @@
     background-color: #fff;
     height: 900px;
     transform: translate(0px, 115px);
-
-    /* 1º: Filtro de cor | 2º: Imagem 1 | 3º: Imagem 2 | 4º: Imagem 3 */
-    background-image:
-        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(../../assets/imgAboutUs/DR.D_candid_shot\ 1.png),
-        url(../../assets/imgAboutUs/segunda\ camada.png),
-        url(../../assets/imgAboutUs/terceriacamada.png);
-
-    /* Define como cada imagem se comporta */
-    background-position: center, left, center, right;
+    background-image: url(../../assets//imgAboutUs//DR.D_candid_shot\ 1.png);
     background-size: cover;
-    /* Exemplo de divisão em 3 colunas */
-    background-repeat: no-repeat;
+
 }
