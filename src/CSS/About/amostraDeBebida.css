@@ -1,6 +1,19 @@
 .amostraDeBebida {
     background-color: #fff;
-    height: 500px;
     background-image: url(../../assets/imgAboutUs/imgFundoBebidas.png);
+
+    /* Faz a imagem cobrir tudo sem distorcer */
     background-size: cover;
+
+
+    /* A mágica da altura */
+    min-height: 100vh;
+    /* Garante no mínimo 100% da altura da tela */
+    width: 100%;
+
+    /* Centraliza o conteúdo que estiver dentro dela */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
