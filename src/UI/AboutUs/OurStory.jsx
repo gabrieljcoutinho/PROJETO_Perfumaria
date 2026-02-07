@@ -5,7 +5,9 @@ type Props = {}
 
 const OurStory = (props: Props) => {
   return (
-    <div>OurStory</div>
+    <div>
+        <h2>novo css</h2>
+    </div>
   )
 }
 
