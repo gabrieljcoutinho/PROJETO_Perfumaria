@@ -35,9 +35,10 @@
 
 
 
-.aboutUsSection h1 {
+.aboutUsSection h1{
     transform: translate(-10px, -400px);
     font-size: 50px;
     color: #fff;
     z-index: 2;
 }
+
