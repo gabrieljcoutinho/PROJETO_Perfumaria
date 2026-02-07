@@ -1,4 +1,5 @@
 .tituloMarcacaoDePagina {
     color: red;
-    font-size: 500px;
+    font-size: 100px;
+    transform: translate(-100px, 120px);
 }
