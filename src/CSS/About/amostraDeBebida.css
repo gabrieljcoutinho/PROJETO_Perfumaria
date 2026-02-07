@@ -4,9 +4,6 @@
 
     /* Faz a imagem cobrir tudo sem distorcer */
     background-size: cover;
-
-
-    /* A mágica da altura */
     min-height: 100vh;
 
 
