@@ -13,6 +13,7 @@ const Header = () => {
         {/* Ajustado para bater com o path="/" do AppRoutes */}
         <li><Link to="/" className="ul-lista">Home</Link></li>
         <li><Link to="/shop" className="ul-lista">Shop</Link></li>
+        <li><Link to="/aboutus" className="ul-lista">About Us</Link></li>
       </ul>
       <img src={listaIconesHeader} alt="Ícones" className="imgListaIcones" />
     </header>
