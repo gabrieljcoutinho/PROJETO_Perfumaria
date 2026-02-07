@@ -37,6 +37,11 @@ const Footer = () => {
 
               <div className="listas  custumer">
                   <h5>Customer care</h5>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
                 <ul></ul>
               </div></div>
 
