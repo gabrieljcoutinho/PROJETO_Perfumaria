@@ -9,6 +9,7 @@ const AboutUs = () => {
         <MarcacaoDepagina />
         <Aboutus />
         <OurStory />
+        <AmostraDeBebida />
     </div>
   )
 }
