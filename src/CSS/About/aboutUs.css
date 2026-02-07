@@ -41,5 +41,5 @@
     /* Garante que o texto fique acima do fundo */
     color: #fff;
     font-size: 3rem;
-transform: translate();
+    transform: translate('111px, -10px');
 }
