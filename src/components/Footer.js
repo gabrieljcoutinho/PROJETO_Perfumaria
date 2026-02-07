@@ -31,7 +31,7 @@ const Footer = () => {
                 <ul>
                   <li>Payments</li>
                   <li>Delivery options</li>
-                  <li></li>
+                  <li>Buyer preotection</li>
                 </ul>
               </div>
 
