@@ -5,7 +5,7 @@ type Props = {}
 
 const MarcacaoDePagina = (props: Props) => {
   return (
-    <div><h1>Home / About Us</h1></div>
+    <div><h1 className='tituloMarcacaoDePagina'>Home / About Us</h1></div>
   )
 }
 
