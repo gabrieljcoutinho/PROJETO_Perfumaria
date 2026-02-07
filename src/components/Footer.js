@@ -39,7 +39,7 @@ const Footer = () => {
                   <h5>Customer care</h5>
                   <li>Help center</li>
                   <li>Terms & Conditions</li>
-                  <li></li>
+                  <li>Privacy policy</li>
                   <li></li>
                   <li></li>
                 <ul></ul>
