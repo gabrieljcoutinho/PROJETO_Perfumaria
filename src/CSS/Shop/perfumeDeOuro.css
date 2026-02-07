@@ -2,3 +2,7 @@
     background: radial-gradient(circle at 30% 50%, #6b3e1e 0%, #000000 85%);
     height: 1000px;
 }
+
+.conteudoDivPerfumeDeOuro{
+    display: flex;
+}
