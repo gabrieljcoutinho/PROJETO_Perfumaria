@@ -9,39 +9,39 @@
 
 # 🌟 Loja de Perfumes Luxuosos
 
-Bem-vindo à **Loja de Perfumes Luxuosos**, onde cada fragrância é uma experiência única e cada frasco é uma obra de arte. Nossa coleção é feita para quem aprecia sofisticação, exclusividade e luxo.  
+Bem-vindo à **Loja de Perfumes Luxuosos**, onde cada fragrância é uma experiência única e cada frasco é uma obra de arte. Nossa coleção é feita para quem aprecia sofisticação, exclusividade e luxo.
 
 ---
 
 ## 🏠 Home
 
-Na **Home**, o visitante é recebido com uma entrada elegante:  
+Na **Home**, o visitante é recebido com uma entrada elegante:
 
-> "Descubra a arte de perfumar-se com exclusividade."  
+> "Descubra a arte de perfumar-se com exclusividade."
 
-Um perfume simples é exibido, simbolizando a essência da nossa marca: sofisticação mínima, mas impactante.  
+Um perfume simples é exibido, simbolizando a essência da nossa marca: sofisticação mínima, mas impactante.
 
 ---
 
 ## ✨ Main / Boas-Vindas
 
-A seção principal dá as boas-vindas e apresenta nossa filosofia:  
+A seção principal dá as boas-vindas e apresenta nossa filosofia:
 
-> "Luxo, qualidade e fragrâncias inesquecíveis — essa é a nossa assinatura."  
+> "Luxo, qualidade e fragrâncias inesquecíveis — essa é a nossa assinatura."
 
 ---
 
 ## 💎 Nossos Valores
 
-- **Exclusividade:** Cada perfume é único e cuidadosamente elaborado.  
-- **Sofisticação:** Frascos luxuosos que encantam os sentidos.  
-- **Qualidade:** Ingredientes premium selecionados para máxima intensidade olfativa.  
+- **Exclusividade:** Cada perfume é único e cuidadosamente elaborado.
+- **Sofisticação:** Frascos luxuosos que encantam os sentidos.
+- **Qualidade:** Ingredientes premium selecionados para máxima intensidade olfativa.
 
 ---
 
 ## 🌸 Perfumes Principais
 
-Uma breve demonstração dos quatro perfumes mais desejados:  
+Uma breve demonstração dos quatro perfumes mais desejados:
 
 | Nome do Perfume           | Descrição Breve                          |
 |---------------------------|-----------------------------------------|
@@ -54,36 +54,36 @@ Uma breve demonstração dos quatro perfumes mais desejados:
 
 ## 🎨 Nossas Coleções
 
-Apresentamos **7 perfumes** da nossa coleção, apenas para mostrar a diversidade e o luxo de nossos frascos:  
+Apresentamos **7 perfumes** da nossa coleção, apenas para mostrar a diversidade e o luxo de nossos frascos:
 
-1. Perfume 1 – Frasco elegante  
-2. Perfume 2 – Frasco elegante  
-3. Perfume 3 – Frasco elegante  
-4. Perfume 4 – Frasco elegante  
-5. Perfume 5 – Frasco elegante  
-6. Perfume 6 – Frasco elegante  
-7. Perfume 7 – Frasco elegante  
+1. Perfume 1 – Frasco elegante
+2. Perfume 2 – Frasco elegante
+3. Perfume 3 – Frasco elegante
+4. Perfume 4 – Frasco elegante
+5. Perfume 5 – Frasco elegante
+6. Perfume 6 – Frasco elegante
+7. Perfume 7 – Frasco elegante
 
-> Cada frasco é uma peça de design que valoriza o ambiente e a experiência do usuário.  
+> Cada frasco é uma peça de design que valoriza o ambiente e a experiência do usuário.
 
 ---
 
 ## 🔥 Promoção Especial
 
-Perfume em destaque: **Golden Serius Black** – edição limitada com aroma marcante e sofisticado.  
+Perfume em destaque: **Golden Serius Black** – edição limitada com aroma marcante e sofisticado.
 
 ---
 
 ## 🛒 Loja
 
-Na tela da **Loja**, você encontra vários perfumes para compra, incluindo seções especiais:  
+Na tela da **Loja**, você encontra vários perfumes para compra, incluindo seções especiais:
 
 ### Ofertas Especiais
 
-- **Aqua Serenity** – edição limitada com fragrância refrescante.  
-- **Golden Angel** – perfume de luxo extremo, para quem busca exclusividade máxima.  
+- **Aqua Serenity** – edição limitada com fragrância refrescante.
+- **Golden Angel** – perfume de luxo extremo, para quem busca exclusividade máxima.
 
-> Botões de compra interativos para uma experiência de compra refinada.  
+> Botões de compra interativos para uma experiência de compra refinada.
 
 ---
 
@@ -91,40 +91,40 @@ Na tela da **Loja**, você encontra vários perfumes para compra, incluindo seç
 
 ### Sobre Nós
 
-Um fundo elegante acompanha o texto que apresenta a marca:  
+Um fundo elegante acompanha o texto que apresenta a marca:
 
-> "Somos uma loja dedicada à arte da perfumaria de luxo, trazendo fragrâncias que encantam e frascos que impressionam."  
+> "Somos uma loja dedicada à arte da perfumaria de luxo, trazendo fragrâncias que encantam e frascos que impressionam."
 
 ### Our Story
 
-Como tudo começou:  
+Como tudo começou:
 
-> "Inspirados pela paixão por perfumes únicos e frascos luxuosos, fundamos esta loja para criar experiências olfativas inesquecíveis."  
+> "Inspirados pela paixão por perfumes únicos e frascos luxuosos, fundamos esta loja para criar experiências olfativas inesquecíveis."
 
 ### Nossa Adega de Perfumes
 
-Exibimos os perfumes como se estivessem em uma adega de luxo — não de vinhos, mas dedicada às nossas preciosas fragrâncias.  
+Exibimos os perfumes como se estivessem em uma adega de luxo — não de vinhos, mas dedicada às nossas preciosas fragrâncias.
 
-> Cada perfume é cuidadosamente armazenado, exibido e pronto para transformar momentos em experiências sofisticadas.  
+> Cada perfume é cuidadosamente armazenado, exibido e pronto para transformar momentos em experiências sofisticadas.
 
 ---
 
 ## 🔗 Links Úteis
 
-- [Home](#)  
-- [Perfumes Principais](#)  
-- [Coleções](#)  
-- [Loja](#)  
-- [Promoções](#)  
-- [Sobre Nós](#)  
+- [Home](#)
+- [Perfumes Principais](#)
+- [Coleções](#)
+- [Loja](#)
+- [Promoções](#)
+- [Sobre Nós](#)
 
 ---
 
 ## 🎨 Tecnologias Utilizadas
 
-- HTML  
-- CSS  
-- JavaScript  
+- HTML
+- CSS
+- JavaScript
 
 ---
 
@@ -166,3 +166,7 @@ Exibimos os perfumes como se estivessem em uma adega de luxo — não de vinhos,
 <img width="1855" height="881" alt="Image" src="https://github.com/user-attachments/assets/1b0ecb2e-8599-4ff7-944a-9a375d5b9f2b" />
 
 <img width="1893" height="897" alt="Image" src="https://github.com/user-attachments/assets/1c9a6368-9b07-41db-ad90-5dcf3e09d5f8" />
+
+<img width="1892" height="679" alt="Image" src="https://github.com/user-attachments/assets/e5cb466f-78b8-4970-b329-1af9aabbc3aa" />
+
+<img width="1850" height="271" alt="Image" src="https://github.com/user-attachments/assets/9316711f-efae-453b-909f-1db32271c9a1" />
