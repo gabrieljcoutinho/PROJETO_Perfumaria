@@ -17,6 +17,9 @@
     padding-left: 13rem;
     padding-top: 1.5rem;
 }
-.subtituloListaOqueFazUnicosListaItens{
-        font-size: 25px;
+
+.subtituloListaOqueFazUnicosListaItens {
+    font-size: 25px;
+    font-weight: 400;
+    color: #fff;
 }
