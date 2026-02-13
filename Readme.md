@@ -7,6 +7,130 @@
 # Inicialização
 > npm start
 
+# 🌟 Loja de Perfumes Luxuosos
+
+Bem-vindo à **Loja de Perfumes Luxuosos**, onde cada fragrância é uma experiência única e cada frasco é uma obra de arte. Nossa coleção é feita para quem aprecia sofisticação, exclusividade e luxo.  
+
+---
+
+## 🏠 Home
+
+Na **Home**, o visitante é recebido com uma entrada elegante:  
+
+> "Descubra a arte de perfumar-se com exclusividade."  
+
+Um perfume simples é exibido, simbolizando a essência da nossa marca: sofisticação mínima, mas impactante.  
+
+---
+
+## ✨ Main / Boas-Vindas
+
+A seção principal dá as boas-vindas e apresenta nossa filosofia:  
+
+> "Luxo, qualidade e fragrâncias inesquecíveis — essa é a nossa assinatura."  
+
+---
+
+## 💎 Nossos Valores
+
+- **Exclusividade:** Cada perfume é único e cuidadosamente elaborado.  
+- **Sofisticação:** Frascos luxuosos que encantam os sentidos.  
+- **Qualidade:** Ingredientes premium selecionados para máxima intensidade olfativa.  
+
+---
+
+## 🌸 Perfumes Principais
+
+Uma breve demonstração dos quatro perfumes mais desejados:  
+
+| Nome do Perfume           | Descrição Breve                          |
+|---------------------------|-----------------------------------------|
+| Luxurius Elixir Rough     | Fragrância intensa e envolvente.        |
+| The Golden                | Aroma dourado, elegante e marcante.     |
+| Luxurius Elixir           | Mistura exclusiva de notas sofisticadas.|
+| Luxurius Essence          | Essência refinada para momentos especiais.|
+
+---
+
+## 🎨 Nossas Coleções
+
+Apresentamos **7 perfumes** da nossa coleção, apenas para mostrar a diversidade e o luxo de nossos frascos:  
+
+1. Perfume 1 – Frasco elegante  
+2. Perfume 2 – Frasco elegante  
+3. Perfume 3 – Frasco elegante  
+4. Perfume 4 – Frasco elegante  
+5. Perfume 5 – Frasco elegante  
+6. Perfume 6 – Frasco elegante  
+7. Perfume 7 – Frasco elegante  
+
+> Cada frasco é uma peça de design que valoriza o ambiente e a experiência do usuário.  
+
+---
+
+## 🔥 Promoção Especial
+
+Perfume em destaque: **Golden Serius Black** – edição limitada com aroma marcante e sofisticado.  
+
+---
+
+## 🛒 Loja
+
+Na tela da **Loja**, você encontra vários perfumes para compra, incluindo seções especiais:  
+
+### Ofertas Especiais
+
+- **Aqua Serenity** – edição limitada com fragrância refrescante.  
+- **Golden Angel** – perfume de luxo extremo, para quem busca exclusividade máxima.  
+
+> Botões de compra interativos para uma experiência de compra refinada.  
+
+---
+
+## 🏛️ About Us
+
+### Sobre Nós
+
+Um fundo elegante acompanha o texto que apresenta a marca:  
+
+> "Somos uma loja dedicada à arte da perfumaria de luxo, trazendo fragrâncias que encantam e frascos que impressionam."  
+
+### Our Story
+
+Como tudo começou:  
+
+> "Inspirados pela paixão por perfumes únicos e frascos luxuosos, fundamos esta loja para criar experiências olfativas inesquecíveis."  
+
+### Nossa Adega de Perfumes
+
+Exibimos os perfumes como se estivessem em uma adega de luxo — não de vinhos, mas dedicada às nossas preciosas fragrâncias.  
+
+> Cada perfume é cuidadosamente armazenado, exibido e pronto para transformar momentos em experiências sofisticadas.  
+
+---
+
+## 🔗 Links Úteis
+
+- [Home](#)  
+- [Perfumes Principais](#)  
+- [Coleções](#)  
+- [Loja](#)  
+- [Promoções](#)  
+- [Sobre Nós](#)  
+
+---
+
+## 🎨 Tecnologias Utilizadas
+
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+💎 Experimente o luxo, sinta a exclusividade e descubra o mundo das fragrâncias finas! 🌟
+
+
 <img width="1889" height="899" alt="Image" src="https://github.com/user-attachments/assets/653d2bb5-5d9c-45cf-8d25-b5d5e569c52c" />
 
 <img width="1892" height="815" alt="Image" src="https://github.com/user-attachments/assets/36457f12-d94d-492e-8752-415f220b5efa" />
