@@ -11,6 +11,7 @@
 
 .conteudoUnicos {
     display: flex;
+    gap: 30px;
 }
 
 h1,
