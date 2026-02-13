@@ -1,6 +1,5 @@
 .diferencial {
     height: 1000px;
-    align-items: baseline;
 }
 
 .tituloOqueNosFazDiferentes {
@@ -30,12 +29,18 @@
     text-align: left;
     line-height: 35px;
     font-size: 30px;
+    align-items: right;
 }
 
-.paragrafoComplemento {}
+
+.paragrafoComplemento {
+    align-items: right;
+}
 
 .conteudoSecundario {
     color: #fff;
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
+    text-align: left;
+    padding-left: 5rem;
 }
