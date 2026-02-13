@@ -43,7 +43,8 @@ const OqueNosFazUnicos = (props: Props) => {
 
             <main className="paragrafoComplemento">
                     <p className="conteudoSecundario">
-                    Join us on this olfactory adventure as we celebrate the diverse tapestry of scents from around the world. Discover the captivating aromas that embrace the essence of local cultures and connect with the beauty of our shared humanity.
+                    Join us on this olfactory adventure as we celebrate the diverse tapestry of scents from around the world. <br/> Discover the captivating aromas that embrace the essence of local cultures and connect with
+                    the beauty of our shared humanity.
                     </p>
 
                     <p className="conteudoSecundario">
