@@ -9,7 +9,9 @@ const OqueNosFazUnicos = (props: Props) => {
         <h3 className="tituloOqueNosFazDiferentes">What Makes Us Unique</h3>
 
             <ul className="conteudoUnicos">
-                    <li></li>
+                    <li>
+                        <h4>Locally Inspired</h4>
+                    </li>
 
                     <li></li>
 
