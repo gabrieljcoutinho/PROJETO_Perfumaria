@@ -16,6 +16,7 @@
 
     /* Opcional: aumenta o espaçamento entre letras para parecer mais luxuoso */
     letter-spacing: 0.5px;
+    text-align: left;
 }
 
 .tituloPrincipal {
