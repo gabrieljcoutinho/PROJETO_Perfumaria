@@ -25,25 +25,25 @@ const ListaDeProdutos = () => {
         <div className="divConteudo">
           <img src={img1} alt="Perfume 1"  className='img'/>
             <h3 className='tituloDosPerfumesLista'>Luxurius Elixir Rough</h3>
-            <p className="preco">R$: </p>
+            <p className="preco">R$: 220,00</p>
         </div>
 
         <div className="divConteudo">
           <img src={img2} alt="Perfume 2" className='img'/>
           <h3 className='tituloDosPerfumesLista'>The Golden legacy</h3>
-          <p className="preco">R$: </p>
+          <p className="preco">R$: 160,00</p>
         </div>
 
         <div className="divConteudo">
           <img src={img3} alt="Perfume 3" className='img'/>
           <h3 className='tituloDosPerfumesLista'>Luxurious Elixir</h3>
-          <p className="preco">R$: </p>
+          <p className="preco">R$: 250,00</p>
         </div>
 
         <div className="divConteudo">
           <img src={img4} alt="Perfume 4" className='img'/>
           <h3 className='tituloDosPerfumesLista'>Luxurius Essence</h3>
-          <p className="preco">R$: </p>
+          <p className="preco">R$: 260,00</p>
         </div>
 
       </div>
@@ -54,25 +54,25 @@ const ListaDeProdutos = () => {
         <div className="divConteudo">
           <img src={img5} alt="Perfume 5" className='img'/>
           <h3 className='tituloDosPerfumesLista'>Aurum Aura</h3>
-          <p className="preco">R$: </p>
+          <p className="preco">R$: 200,00</p>
         </div>
 
         <div className="divConteudo">
           <img src={img6} alt="Perfume 6" className='img'/>
           <h3 className='tituloDosPerfumesLista'>Gleaming Gilt</h3>
-          <p className="preco">R$: </p>
+          <p className="preco">R$: 160,00</p>
         </div>
 
         <div className="divConteudo">
           <img src={img7} alt="Perfume 7" className='img'/>
           <h3 className='tituloDosPerfumesLista'>Gilden Elixir Rough</h3>
-          <p className="preco">R$: </p>
+          <p className="preco">R$: 170,00</p>
         </div>
 
         <div className="divConteudo">
           <img src={img8} alt="Perfume 8" className='img'/>
           <h3 className='tituloDosPerfumesLista'>Golden Luminary</h3>
-          <p className="preco">R$: </p>
+          <p className="preco">R$: 120,00</p>
         </div>
 
       </div>
@@ -82,25 +82,25 @@ const ListaDeProdutos = () => {
         <div className="divConteudo">
           <img src={img9} alt="Perfume 9" className='img'/>
           <h3 className='tituloDosPerfumesLista'>Decadent Opal</h3>
-          <p className="preco">R$: </p>
+          <p className="preco">R$: 160,00</p>
         </div>
 
         <div className="divConteudo">
           <img src={img10} alt="Perfume 10" className='img'/>
           <h3 className='tituloDosPerfumesLista'>Gilden Elixir</h3>
-          <p className="preco">R$: </p>
+          <p className="preco">R$: 200,00</p>
         </div>
 
         <div className="divConteudo">
           <img src={img11} alt="Perfume 11" className='img'/>
           <h3 className='tituloDosPerfumesLista'>Glamourus Gilt</h3>
-          <p className="preco">R$: </p>
+          <p className="preco">R$: 160,00</p>
         </div>
 
         <div className="divConteudo">
           <img src={img12} alt="Perfume 12" className='img'/>
           <h3 className='tituloDosPerfumesLista'>Luxury Enigma</h3>
-          <p className="preco">R$: </p>
+          <p className="preco">R$: 190,00</p>
         </div>
       </div>
 
