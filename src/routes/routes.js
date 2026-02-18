@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import Header from '../components/Header.jsx';
 import Home from '../pages/Home.tsx';
 import Shop from '../pages/Shop';
-import AboutUs from '../pages/AboutUs';
+import AboutUs from '../pages/AboutUs.tsx';
 
 const AppRoutes = () => {
   // Isso verifica se você está no computador (localhost) ou no GitHub
