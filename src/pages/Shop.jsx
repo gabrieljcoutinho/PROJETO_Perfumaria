@@ -4,7 +4,7 @@ import MarcacaoDePagina from '../UI/Shop/MarcacaoDePagina.jsx';
 import TituloPrincipalDaPaginaShop from "../UI/Shop/TituloPrincipalDaPaginaShop.jsx"
 import ListaProdutos from "../UI/Shop/ListaDeProdutos.jsx"
 import OfertaEspecial from "../UI/Shop/OfertaEspecial.jsx"
-import PerfumeDeOuro from "../UI/Shop/PerfumeDeOuro"
+import PerfumeDeOuro from "../UI/Shop/PerfumeDeOuro.jsx"
 import Footer from "../components/Footer"
 
 
