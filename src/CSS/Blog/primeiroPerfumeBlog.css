@@ -23,4 +23,7 @@ h3 {
 
 .conteudoEssencial {
     text-align: left;
+    padding-left: 20rem;
+    font-size: 30px;
+    line-height: 45px;
 }
