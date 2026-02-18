@@ -12,5 +12,6 @@
 }
 
 .conteudo {
-    transform: translateY(-500px );
+    transform: translateY(-500px);
+    color: #000;
 }
