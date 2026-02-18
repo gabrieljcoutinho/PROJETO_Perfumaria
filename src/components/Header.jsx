@@ -27,6 +27,11 @@ const Header = () => {
             About Us
           </NavLink>
         </li>
+        <li>
+          <NavLink to="/blog" className="ul-lista">
+           Blog
+          </NavLink>
+        </li>
       </ul>
 
       <img src={listaIconesHeader} alt="Ícones" className="imgListaIcones" />
