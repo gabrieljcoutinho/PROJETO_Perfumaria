@@ -1,6 +1,6 @@
 import React from 'react'
 
-
+import "../../CSS/Blog/conteudoInicalparagrafo.css"
 
 const ConteudoTextoPrincipalPrimeiro = () => {
   return (
