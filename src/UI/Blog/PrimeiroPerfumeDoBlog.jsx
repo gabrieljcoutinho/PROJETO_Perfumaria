@@ -23,7 +23,7 @@ const PrimeiroPerfumeDoBlog = () => {
                          perfectly with your skin chemistry. This will be the foundation upon which<br/>
                          you build your enchanting symphony of scents.</p>
 
-                         <h3>Commemorating Milestones</h3>
+                         <h3 className='segundoSubtitulo'>Commemorating Milestones</h3>
             </div>
 
     </div>
