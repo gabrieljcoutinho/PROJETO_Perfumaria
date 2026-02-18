@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import Header from '../components/Header.jsx';
 import Home from '../pages/Home.jsx';
-import Shop from '../pages/Shop.tsx';
+import Shop from '../pages/Shop.jsx';
 import AboutUs from '../pages/AboutUs.jsx';
 import Blog from '../pages/Blog.tsx';
 
