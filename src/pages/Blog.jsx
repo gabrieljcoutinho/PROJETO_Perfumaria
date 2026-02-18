@@ -18,6 +18,7 @@ const Blog = () => {
             <ConteudoTodoPrincipal />
           <ConteudoImgPrincipalBlog />
           <ConteudoTextoPrincipalPrimeiro />
+          <PrimeiroPerfumeDoBlog />
     </div>
   )
 }
