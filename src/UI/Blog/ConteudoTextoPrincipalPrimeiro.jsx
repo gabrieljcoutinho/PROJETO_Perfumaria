@@ -8,8 +8,8 @@ const ConteudoTextoPrincipalPrimeiro = () => {
 
             <p className="primeiroParagrafo">
 
-                        Welcome, fragrance aficionados, to an exquisite journey into the captivating world of luxury perfume collections. A symphony of scents awaits
-                        as we delve into the art of curating a fragrance collection that reflects your essence, evokes cherished memories, and embraces the finest
+                        Welcome, fragrance aficionados, to an exquisite journey into the captivating world of luxury perfume collections. A symphony of scents awaits <br/>
+                        as we delve into the art of curating a fragrance collection that reflects your essence, evokes cherished memories, and embraces the finest <br/>
                         olfactory masterpieces. Just as a maestro conducts an orchestra, we invite you to become the conductor of your very own perfume symphony.
             </p>
 
