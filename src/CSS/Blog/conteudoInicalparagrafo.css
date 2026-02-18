@@ -1,4 +1,6 @@
 .primeiroParagrafo {
     color: #fff;
     font-family: 'Montserrat';
+    text-align: left;
+    padding-left: 10rem;
 }
