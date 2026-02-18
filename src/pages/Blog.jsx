@@ -2,7 +2,8 @@ import React from 'react'
 
 
 
-import MarcacaoDePagina from '../UI/Blog/MarcacaoDePagina'
+import MarcacaoDePagina from '../UI/Blog/MarcacaoDePagina.jsx'
+
 
 
 
