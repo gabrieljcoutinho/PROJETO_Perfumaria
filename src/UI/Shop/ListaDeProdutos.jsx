@@ -30,12 +30,12 @@ const ListaDeProdutos = () => {
             <h3 className='tituloDosPerfumesLista'>Luxurius Elixir Rough</h3>
 
             <ul className="estrela">
-        <li className="listaEstrelas"><img src={star} alt="" /></li>
-        <li className="listaEstrelas"><img src={star} alt="" /></li>
-        <li className="listaEstrelas"><img src={star} alt="" /></li>
-        <li className="listaEstrelas"><img src={star} alt="" /></li>
-        <li className="listaEstrelas"><img src={star} alt="" /></li>
-        <li className="listaEstrelas"><img src={star} alt="" /></li>
+        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
+        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
+        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
+        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
+        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
+        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
       </ul>
 
             <p className="preco">R$: 220,00</p>
