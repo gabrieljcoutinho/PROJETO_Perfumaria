@@ -3,9 +3,7 @@ import "../../CSS/Shop/ofertaEspecial.css"
 
 import imgPromocaoPerfume from "../../assets/imgShop/ofertaEspecial.png"
 
-type Props = {}
-
-const OfertaEspecial = (props: Props) => {
+const OfertaEspecial = () => {
   return (
     <div className='divOfertaEspecial'>
         <h1 className='tituloSecaoPrincipal'>Especial Ofers</h1>
