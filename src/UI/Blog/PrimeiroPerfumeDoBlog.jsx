@@ -24,6 +24,14 @@ const PrimeiroPerfumeDoBlog = () => {
                          you build your enchanting symphony of scents.</p>
 
                          <h3 className='segundoSubtitulo'>Commemorating Milestones</h3>
+
+                         <p className='conteudoEssencial'>
+                            Just as the notes of a melody create beautiful harmonies, certain<br/>
+                             fragrances can encapsulate significant moments in your life. Whether it's a<br/>
+                             celebration of love, a momentous achievement, or a cherished memory<br/>
+                             with a loved one, select perfumes that become olfactory milestones. With<br/>
+                             each spritz, you will be transported back in time, reliving the emotions that
+                              weave your life's narrative.</p>
             </div>
 
     </div>
