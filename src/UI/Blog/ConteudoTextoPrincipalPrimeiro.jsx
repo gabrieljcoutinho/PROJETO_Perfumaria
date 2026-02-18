@@ -16,8 +16,8 @@ const ConteudoTextoPrincipalPrimeiro = () => {
             <h4 className='subtituloConteudoTexto'>The Perfume Collection: A Personal Overture</h4>
 
             <p className="segundoparagrafo">
-            A perfume collection is more than an assortment of fragrances; it is a reflection of your personality, your life's chapters, and the emotions that define you. As you embark on this aromatic voyage, consider what scents resonate with your soul, whisking you away to cherished moments and uncharted dreams. Each fragrance in your collection will tell a unique story, narrated by the notes that gracefully dance upon your skin.
-                </p>
+                  A perfume collection is more than an assortment of fragrances; it is a reflection of your personality, your life's chapters, and the emotions that define you. As you embark on this aromatic voyage, consider what scents resonate with your soul, whisking you away to cherished moments and uncharted dreams. Each fragrance in your collection will tell a unique story, narrated by the notes that gracefully dance upon your skin.
+              </p>
 
     </div>
   )
