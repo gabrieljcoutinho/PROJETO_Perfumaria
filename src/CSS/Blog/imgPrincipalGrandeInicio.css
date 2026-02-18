@@ -1,9 +1,9 @@
 .conteudoImgPrincipalBlog {
 
-    padding: 20px;
+    padding: 50px;
 }
 
-.fundoImgPrincipal{
+.fundoImgPrincipal {
     background-color: #fff;
     height: 1000px;
     background-image: url("../../assets/imgBlog/imgBlog.png");
