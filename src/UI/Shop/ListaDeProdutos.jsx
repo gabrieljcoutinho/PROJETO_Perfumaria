@@ -46,6 +46,16 @@ const ListaDeProdutos = () => {
         <div className="divConteudo">
           <img src={img2} alt="Perfume 2" className='img'/>
           <h3 className='tituloDosPerfumesLista'>The Golden legacy</h3>
+
+          <ul className="estrela">
+        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
+        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
+        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
+        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
+        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
+        <li className="listaEstrelas"><img src={star2} alt="" className='imgEstrelaListaClassificacao' /></li>
+      </ul>
+
           <p className="preco">R$: 160,00</p>
         </div>
 
