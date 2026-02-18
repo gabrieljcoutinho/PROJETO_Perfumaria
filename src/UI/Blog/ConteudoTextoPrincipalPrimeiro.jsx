@@ -4,7 +4,17 @@ import "../../CSS/Blog/conteudoInicalparagrafo.css"
 
 const ConteudoTextoPrincipalPrimeiro = () => {
   return (
-    <div>ConteudoTextoPrincipalPrimeiro</div>
+    <div>
+
+            <p className="primeiroParagrafo">
+
+            </p>
+
+            <p className="segundoparagrafo">
+
+                </p>
+
+    </div>
   )
 }
 
