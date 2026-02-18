@@ -1,10 +1,10 @@
 import React from 'react'
-import MarcacaoDepagina from "../UI/AboutUs/MarcacaoDePagina"
+import MarcacaoDepagina from "../UI/AboutUs/MarcacaoDePagina.jsx"
 import Aboutus from "../UI/AboutUs/AboutUs.jsx"
 import OurStory from "../UI/AboutUs/OurStory.jsx"
 import AmostraDeBebida from "../UI/AboutUs/AmostraDeBebida.jsx"
 import OqueNosFazUnicos from "../UI/AboutUs/OqueNosFazUnicos.jsx"
-import  Footer from "../components/Footer"
+import  Footer from "../components/Footer.jsx"
 
 const AboutUs = () => {
   return (
