@@ -16,7 +16,7 @@ const PrimeiroPerfumeDoBlog = () => {
             <div className="conteudo">
                     <h3>The Overture: Discovering Your Signature Scent</h3>
 
-                    <p>The journey to curating a luxury perfume collection begins with finding your <br/>
+                    <p className='conteudoEssencial'>The journey to curating a luxury perfume collection begins with finding your <br/>
                         signature scent — the one that feels like an olfactory extension of your<br/>
                         being. Take time to explore different fragrance families, from opulent<br/>
                          florals to mysterious orientals, to discover the notes that harmonize<br/>
