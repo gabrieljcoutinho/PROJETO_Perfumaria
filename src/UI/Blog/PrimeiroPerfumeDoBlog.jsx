@@ -4,7 +4,7 @@ import React from 'react'
 
 const PrimeiroPerfumeDoBlog = () => {
   return (
-    <div>PrimeiroPerfumeDoBlog</div>
+    <div className='primeriPerfumeBlog'>PrimeiroPerfumeDoBlog</div>
   )
 }
 
