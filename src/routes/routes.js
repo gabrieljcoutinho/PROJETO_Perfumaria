@@ -6,6 +6,8 @@ import Shop from '../pages/Shop.jsx';
 import AboutUs from '../pages/AboutUs.jsx';
 import Blog from '../pages/Blog.jsx';
 
+import ScrollToTop from "../../src/utils/ScrollToTop.js"
+
 const AppRoutes = () => {
   // Isso verifica se você está no computador (localhost) ou no GitHub
   const base = window.location.hostname === 'localhost' ? '/' : '/Perfumaria';
@@ -13,6 +15,7 @@ const AppRoutes = () => {
   return (
     <BrowserRouter basename={base}>
       <Header />
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/shop" element={<Shop />} />
