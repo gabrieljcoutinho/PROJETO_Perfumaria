@@ -1,5 +1,5 @@
 import React from 'react'
-import "../CSS/Blog/marcacaoDePagina.css"
+
 
 
 import MarcacaoDePagina from '../UI/Blog/MarcacaoDePagina'
