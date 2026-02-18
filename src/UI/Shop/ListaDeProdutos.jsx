@@ -230,7 +230,7 @@ const ListaDeProdutos = () => {
         <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
         <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
         <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
-        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
+        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao ' /></li>
       </ul>
 
           <p className="preco">R$: 190,00</p>
