@@ -23,8 +23,8 @@ import Footer from "../components/Footer"
 const Home = () => {
   return (
     <div className='section'>
-
-          <ConteudoInicial />
+{/* 
+          <ConteudoInicial /> */}
 
           <BoasVindas />
 
