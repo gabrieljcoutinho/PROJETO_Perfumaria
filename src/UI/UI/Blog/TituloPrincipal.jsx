@@ -5,7 +5,9 @@ import "../../../CSS/Blog/tituloPrincipal.css"
 
 const TituloPrincipal= () => {
   return (
-    <div>TituTituloPrincipal.jsx</div>
+    <div>
+        <h3>TituTituloPrincipal.jsx</h3>
+    </div>
   )
 }
 
