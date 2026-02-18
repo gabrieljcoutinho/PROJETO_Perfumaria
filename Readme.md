@@ -171,8 +171,10 @@ Exibimos os perfumes como se estivessem em uma adega de luxo — não de vinhos,
 
 <img width="1850" height="271" alt="Image" src="https://github.com/user-attachments/assets/9316711f-efae-453b-909f-1db32271c9a1" />
 
-<img width="1886" height="884" alt="Image" src="https://github.com/user-attachments/assets/583316bf-fcd7-402c-852a-3619cc963ab2" />
-
 <img width="1849" height="509" alt="Image" src="https://github.com/user-attachments/assets/6bedc2c5-8d0c-47e3-b3a2-ed92db174def" />
 
 <img width="1838" height="748" alt="Image" src="https://github.com/user-attachments/assets/004b4c51-602d-4ff4-a58b-ef0b88c93a59" />
+
+
+
+<img width="1886" height="884" alt="Image" src="https://github.com/user-attachments/assets/583316bf-fcd7-402c-852a-3619cc963ab2" />
