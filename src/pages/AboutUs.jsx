@@ -1,5 +1,5 @@
 import React from 'react'
-import MarcacaoDepagina from "../UI/AboutUs/MarcacaoDePagina.jsx"
+import MarcacaoDepagina from "../UI/AboutUs/marcacaoDePagina"
 import Aboutus from "../UI/AboutUs/AboutUs.jsx"
 import OurStory from "../UI/AboutUs/OurStory.jsx"
 import AmostraDeBebida from "../UI/AboutUs/AmostraDeBebida.jsx"
