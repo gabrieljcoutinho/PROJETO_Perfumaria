@@ -1,69 +1,122 @@
+/* ================= HEADER ================= */
+
 header {
     padding-top: 1.5rem;
     display: flex;
     align-items: center;
+    justify-content: space-between;
+
     width: 100%;
-    overflow-x: hidden;
-    /* Garantia extra para a barra sumir */
     box-sizing: border-box;
-    padding-right: 2rem;
+
     position: fixed;
-    width: 100%;
+    top: 0;
     z-index: 10000;
+
     background-color: #000;
-    ;
+    padding-left: 5%;
+    padding-right: 5%;
 }
+
+/* ================= LOGO ================= */
+
+.imgHeader {
+    height: 40px;
+}
+
+/* ================= MENU ================= */
 
 .ulHeader {
     display: flex;
     align-items: center;
-    gap: 20px;
-    list-style: none;
-    width: 100%;
-    padding: 0;
-    padding-right: 36rem;
     gap: 50px;
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
-/* O TRUQUE: Esse margin-left joga os textos e ícones pra direita
-   sem criar barra, pois ele ocupa o espaço interno vazio */
-.ulHeader li:first-of-type {
-    margin-left: auto;
-
-}
+/* LINKS */
 
 header ul li a {
     font-size: 25px;
-    padding-left: 2rem;
     text-decoration: none;
-
 }
+
+/* COR NORMAL */
 
 .ul-lista {
     color: #fff;
     text-decoration: none;
+    transition: 0.3s;
 }
+
+/* HOVER */
 
 .ul-lista:hover {
     text-decoration: underline;
 }
 
+/* LINK ATIVO */
 
-/* Adicione esta classe para o estado PERMANENTE */
 .ul-lista.active {
     color: rgba(255, 255, 255, 0.9);
-    /* Ou a cor que você desejar para o link ativo */
     font-weight: bold;
     text-decoration: underline;
 }
 
-.imgHeader {
-    padding-left: 5rem;
-}
+/* ================= ICONES ================= */
 
 .imgListaIcones {
-    margin-left: 20px;
-    /* Em vez de translate(900px) */
-    height: auto;
-    padding-right: 10rem;
+    height: 30px;
+}
+
+/* ================= RESPONSIVO TABLET ================= */
+
+@media (max-width: 900px) {
+
+    .ulHeader {
+        gap: 25px;
+    }
+
+    header ul li a {
+        font-size: 20px;
+    }
+
+    .imgHeader {
+        height: 35px;
+    }
+
+    .imgListaIcones {
+        height: 25px;
+    }
+}
+
+/* ================= RESPONSIVO CELULAR ================= */
+
+@media (max-width: 600px) {
+
+    header {
+        flex-direction: column;
+        gap: 15px;
+        padding-top: 1rem;
+    }
+
+    .ulHeader {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    header ul li a {
+        font-size: 18px;
+    }
+
+    .imgHeader {
+        height: 30px;
+    }
+
+    .imgListaIcones {
+        height: 22px;
+    }
 }
