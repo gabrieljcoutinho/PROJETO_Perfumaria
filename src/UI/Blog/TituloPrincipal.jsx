@@ -1,5 +1,5 @@
 import React from 'react'
-import "../../../CSS/Blog/tituloPrincipal.css"
+import "../../CSS/Blog/tituloPrincipal.css"
 
 
 
