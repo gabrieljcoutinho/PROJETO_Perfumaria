@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom"; // Trocado Link por NavLink
 import "../CSS/Header/header.css";
 
 import imgLogo from "../assets/imgHome/logoPage.png";
@@ -12,26 +12,24 @@ const Header = () => {
 
       <ul className="ulHeader">
         <li>
+          {/* O 'end' garante que o Home não fique ativo quando estiver em outras rotas */}
           <NavLink to="/" end className="ul-lista">
             Home
           </NavLink>
         </li>
-
         <li>
           <NavLink to="/shop" className="ul-lista">
             Shop
           </NavLink>
         </li>
-
         <li>
           <NavLink to="/aboutus" className="ul-lista">
             About Us
           </NavLink>
         </li>
-
         <li>
           <NavLink to="/blog" className="ul-lista">
-            Blog
+           Blog
           </NavLink>
         </li>
       </ul>
