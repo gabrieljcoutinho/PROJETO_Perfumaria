@@ -5,7 +5,7 @@ import TituloPrincipalDaPaginaShop from "../UI/Shop/TituloPrincipalDaPaginaShop.
 import ListaProdutos from "../UI/Shop/ListaDeProdutos.jsx"
 import OfertaEspecial from "../UI/Shop/OfertaEspecial.jsx"
 import PerfumeDeOuro from "../UI/Shop/PerfumeDeOuro.jsx"
-import Footer from "../components/Footer.jsx"
+import Footer from "../components/Footer.js"
 
 
 
